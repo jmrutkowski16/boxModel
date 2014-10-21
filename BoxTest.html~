@@ -8,31 +8,6 @@
 <link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
 <style>
 
-#heading {
-	margin-left: 2em;
-	padding-left: 1em;
-	background-color: firebrick;
-	color: white;
-	border-radius: .5em;
-	font-family: 'Oxygen', sans-serif;
-}
-
-.textbox {
-	height: 38em;
-	border: 1px solid;
-	padding: .5em;
-	border:1px solid;
-	border-radius: 25px;
-	font-family: 'Alegreya', serif;
-	margin-bottom: .5em;
-}
-#column1 {
-	margin-left: 2em;
-}
-#column2 {
-	margin-left: 2em;
-}
-
 </style>
 </head>
 <body>
